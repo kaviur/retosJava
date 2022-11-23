@@ -1,0 +1,6 @@
+src/
+target/
+.idea/
+pom.xml
+.vscode/
+__pycache__/
